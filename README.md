@@ -48,6 +48,31 @@ This behavior is expected in real-time speech-to-text systems and is consistent 
 
 Short pauses during speech generally improve transcription accuracy.
 
+
+
+
+
+```md
+## Project Structure
+
+```text
+src/
+├── audio/
+│   └── microphoneService.js
+├── hooks/
+│   └── useRecordingState.js
+├── transcription/
+│   └── deepgramService.js
+├── App.jsx
+└── main.jsx
+
+src-tauri/
+├── src/
+│   └── main.rs
+├── tauri.conf.json
+└── Cargo.toml
+```
+
 ## Technology Stack
 
 Frontend: React with Vite  
