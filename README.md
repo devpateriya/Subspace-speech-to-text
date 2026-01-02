@@ -66,7 +66,7 @@ After installing project dependencies and configuring a Deepgram API key, the ap
 
 Clone the repository and install dependencies:
 
-### ✅ CORRECT (final)
+
 
 ```md
 ```bash
