@@ -62,6 +62,15 @@ To run this project locally, the system must have Node.js, Rust, and Tauri prere
 
 After installing project dependencies and configuring a Deepgram API key, the application can be launched in development mode and will open as a desktop window.
 
+### Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone <your-repository-url>
+cd wispr-flow-clone
+npm install
+
 ## Demo Video
 
 A short demo video demonstrates the complete workflow, including starting a recording, speaking while live transcription appears, stopping the recording, and viewing the final transcript.
