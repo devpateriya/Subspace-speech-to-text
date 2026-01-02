@@ -93,7 +93,7 @@ Clone the repository and install dependencies:
 
 
 
-```md
+
 ```bash
 git clone https://github.com/devpateriya/Subspace-speech-to-text.git
 cd Subspace-speech-to-text
