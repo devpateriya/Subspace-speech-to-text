@@ -52,7 +52,7 @@ Short pauses during speech generally improve transcription accuracy.
 
 
 
-```md
+
 ## Project Structure
 
 ```text
