@@ -66,10 +66,14 @@ After installing project dependencies and configuring a Deepgram API key, the ap
 
 Clone the repository and install dependencies:
 
+### ✅ CORRECT (final)
+
+```md
 ```bash
-git clone <your-repository-url>
-cd wispr-flow-clone
+git clone https://github.com/devpateriya/Subspace-speech-to-text.git
+cd Subspace-speech-to-text
 npm install
+```
 
 ## Demo Video
 
